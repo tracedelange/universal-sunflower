@@ -20,6 +20,7 @@ div {
     color: white;
     text-decoration: none;
 }
+
 .navbar li a:hover {
     color: rgb(179, 245, 235);
     text-decoration: none;
