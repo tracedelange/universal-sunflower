@@ -9,6 +9,30 @@ div {
     text-align: center;
 }
 
+.navbar li {
+    display: inline;
+    font-size: 34px;
+    margin: 40px;
+
+}
+
+.navbar li a {
+    color: white;
+    text-decoration: none;
+}
+.navbar li a:hover {
+    color: rgb(179, 245, 235);
+    text-decoration: none;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 20px;
+    background: #49a6d8;
+}
+
 div#header {
     margin-left: 0%;
     margin-right: 0%;
